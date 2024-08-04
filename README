@@ -1,0 +1,12 @@
+This AVL Tree implementation provides a balanced binary search tree with optimized operations for insertion, deletion, and lookup, ensuring O(log n) complexity for basic operations.
+This ensures that the tree remains balanced at all times, providing efficient access and modification.
+
+Features:
+1. Insertion: Add nodes while maintaining tree balance.
+2. Deletion: Remove nodes and rebalance the tree.
+3. Search: Retrieve nodes by their keys in logarithmic time.
+4. Split: Divide the tree into two separate trees based on a specified node.
+5. Join: Combine two AVL trees with a new node while maintaining balance.
+6. Traversal: In-order traversal to process or display sorted elements.
+7. Select: Find the k-th smallest item in the tree.
+8. Rank: Determine the position of a node in the sorted order of the tree.
